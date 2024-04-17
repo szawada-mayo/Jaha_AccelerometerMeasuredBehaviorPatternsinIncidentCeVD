@@ -1,0 +1,1 @@
+# Jaha_AccelerometerMeasuredBehaviorPatternsinIncidentCeVD
